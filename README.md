@@ -1,1 +1,5 @@
 In this file, A database 'School' is created using SQL query 'Create database' and in that database inserted a table 'Students'  with 10 rows and 5 columns (Roll_No,Name,Marks,Grade,Contact).By using DDL and DML commands updated the table according to the required fields and entry.
+
+
+
+Trying GitHub dekstop
